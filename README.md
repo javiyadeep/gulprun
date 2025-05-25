@@ -23,7 +23,7 @@ If these commands return version numbers, your setup is correct. If not, reinsta
 
 ## Setup Instructions
 
-### For Windows Users
+### 🪟 For Windows Users
 
 1. **Add the Script**:
    - Copy the `gulprun.bat` file to the root folder of your project.
@@ -43,7 +43,7 @@ If these commands return version numbers, your setup is correct. If not, reinsta
    - The script will prompt you to run Gulp to compile your SCSS files into CSS.
    - Once confirmed, Gulp will process the SCSS files in the specified (or default) SCSS folder and output the compiled CSS files to the specified (or default) CSS folder.
 
-### For macOS Users
+### 🍏 For macOS Users
 
 1. **Add the Script**:
    - Copy the `gulprun.sh` file to the root folder of your project.
